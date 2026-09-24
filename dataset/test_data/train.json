@@ -1,0 +1,12 @@
+[
+    {
+        "image": "fram_00001_crop_0.jpg",
+        "state": "person",
+        "action_label": 0
+    },
+    {
+        "image": "fram_00001_crop_2.jpg",
+        "state": "car",
+        "action_label": 1
+    }
+]
